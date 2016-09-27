@@ -5,9 +5,9 @@
 
 ##技术网站
 
-1.[泡在网上的日子](http://www.jcodecraeer.com/)
-2.[稀土掘金](http://gold.xitu.io/)
-3.[segmentfault](https://segmentfault.com/)
+1.[泡在网上的日子](http://www.jcodecraeer.com/)  
+2.[稀土掘金](http://gold.xitu.io/)  
+3.[segmentfault](https://segmentfault.com/)  
 
 待续...
 
